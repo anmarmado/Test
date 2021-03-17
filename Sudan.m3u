@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Sudan_tv.png" tvg-name="تلفزيون السودان Sudan TV"  group-title="New Group",تلفزيون السودان Sudan TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv-avc1_250000=3-mp4a_41200=1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Sudan_tv.png" tvg-name="تلفزيون السودان Sudan TV"  group-title="New Group",تلفزيون السودان Sudan TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv-avc1_250000=3-mp4a_41200=1.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Africa TV 1"  group-title="New Group",Africa TV 1
+http://africatv.live.net.sa:1935/live/africatv/chunklist_w1586538177.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Africa TV 2"  group-title="New Group",Africa TV 2
+http://africatv.live.net.sa:1935/live/africatv/chunklist_w1586538177.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Africa TV 3"  group-title="New Group",Africa TV 3
+http://africatv.live.net.sa:1935/live/africatv/chunklist_w1586538177.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="taybatv"  group-title="New Group",taybatv
+https://www.youtube.com/watch?v=VoU-XuxjFOg
+
